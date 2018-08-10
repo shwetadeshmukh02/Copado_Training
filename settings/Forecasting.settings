@@ -244,6 +244,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -285,6 +289,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -458,6 +463,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -499,6 +508,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -676,6 +686,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -718,6 +732,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -891,6 +906,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -932,6 +951,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1109,6 +1129,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1151,6 +1175,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1324,6 +1349,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1365,6 +1394,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1538,6 +1568,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1579,6 +1613,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1752,6 +1787,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -1793,6 +1832,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -1970,6 +2010,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -2012,6 +2056,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2185,6 +2230,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -2226,6 +2275,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2399,6 +2449,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -2440,6 +2494,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
@@ -2613,6 +2668,10 @@
             <label>Order Number</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00N6F00000N7zGT</field>
+            <label>Test copado training</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00N6F00000MfimE</field>
             <label>Tracking Number</label>
         </opportunityListFieldsLabelMappings>
@@ -2654,6 +2713,7 @@
             <field>00N6F00000MfimB</field>
             <field>00N6F00000MfimC</field>
             <field>00N6F00000MfimD</field>
+            <field>00N6F00000N7zGT</field>
             <field>00N6F00000MfimE</field>
         </opportunityListFieldsUnselectedSettings>
         <quotasSettings>
